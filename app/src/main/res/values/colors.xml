@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1daefc</color>
+    <color name="colorPrimaryDark">#1daefc</color>
+    <color name="stick_color">#aaaaaa</color>
+    <color name="display_color">#dddddd</color>
+    <color name="grid_color">#dddddd</color>
+    <color name="app_background">#72956f</color>
+    <color name="colorAccent">#fc1d1d</color>
+
+    <color name="button_color">#d27a32</color>
+</resources>
